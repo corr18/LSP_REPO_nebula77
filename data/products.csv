@@ -1,0 +1,9 @@
+nano data/products.csv
+
+ProductID,Name,Price,Category
+1,Laptop,1200.00,Electronics
+2,Desk Chair,150.00,Furniture
+3,Coffee Maker,45.00,Home
+4,USB Cable,5.99,Electronics
+5,Smartphone,650.00,Electronics
+
