@@ -1,0 +1,12 @@
+AI Tool Used: ChatGPT
+
+Prompt:
+"Evaluate OrderProcessor class and redesign using CRC cards."
+
+Response:
+ChatGPT identified violations of encapsulation, SRP, and coupling, and proposed a modular redesign.
+
+How it helped:
+- Clarified object-oriented design issues
+- Helped structure CRC cards properly
+- Improved understanding of system decomposition
