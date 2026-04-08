@@ -1,0 +1,1 @@
+Used ChatGPT to assist with implementing IntegerSet methods and understanding set operations.
